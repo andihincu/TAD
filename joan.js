@@ -19,8 +19,8 @@ Persona.prototype.getCognom = function(cognomNou){
 return this.congnom;
 }
 
-let traballador = new Persona("Pau","Vicario");
-let treballador2 = new Persona("Ismael", "Barroso")
+let traballador = new Persona("Andi","Hincu");
+let treballador2 = new Persona("Albert", "Hincu")
 
 treballador.saluda();
 
